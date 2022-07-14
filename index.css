@@ -1,3 +1,9 @@
 .mt{
   font-family: 'Oswald', sans-serif;
 }
+
+@font-face {
+	font-family: 'Os'; 
+	src: local('Font Name'),
+		url(/fonts/font.ttf); 
+}
