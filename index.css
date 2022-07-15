@@ -1,19 +1,19 @@
-body{
+body {
   margin: 15px;
 }
 
-p{
+p {
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: 110%;
+  font-size: 120%;
 }
 
-.mt{
+.mt {
   font-family: 'Oswald', sans-serif;
   font-size: 150%;
-  margin: 1%;  
+  margin: 2%;  
 }
 
-.ct{
+.ct {
   font-family: 'Oswald', sans-serif;
   font-size: 140%;
   margin: 6%;  
