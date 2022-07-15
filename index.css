@@ -7,6 +7,16 @@ p{
   font-size: 130%;
 }
 
+button {
+  appearance: none;
+  border: 0;
+  border-radius: 5px;
+  background: #4676D7;
+  color: #fff;
+  padding: 8px 16px;
+  font-size: 16px;
+}
+
 .mt{
   font-family: 'Oswald', sans-serif;
   font-size: 150%;
