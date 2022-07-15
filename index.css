@@ -1,5 +1,5 @@
 body{
-  margin: 2%;
+  margin: 15px;
 }
 
 p{
@@ -10,7 +10,7 @@ p{
 .mt{
   font-family: 'Oswald', sans-serif;
   font-size: 150%;
-  margin: 2%;  
+  margin: 1%;  
 }
 
 .ct{
