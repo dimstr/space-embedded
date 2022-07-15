@@ -1,7 +1,10 @@
+body{
+  margin: 2%;
+}
 .mt{
   font-family: 'Oswald', sans-serif;
   font-size: 140%;
-  margin: 5%;  
+  margin: 4%;  
 }
 p{
   font-family: 'Roboto Condensed', sans-serif;
