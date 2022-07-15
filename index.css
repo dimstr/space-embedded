@@ -20,3 +20,20 @@ p {
   text-align: center;
 }
 
+.img_cont{
+    display:table-cell;
+    vertical-align:middle;
+    text-align:center;
+    width:200px;
+    height:200px;
+    position:relative;
+}
+
+.img_cont img{
+    width:200px;
+    height:200px;
+    position:absolute;
+    z-index:-1;
+    left:0;
+    top:0;
+}
