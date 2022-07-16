@@ -20,6 +20,11 @@ p {
   font-size: 120%;
 }
 
+img {
+  border-radius: 5px;
+  box-shadow: 0 0 5px #1E1E1E;
+}
+
 .wrapper{
   max-width: 800px;
   margin: 0 auto;
