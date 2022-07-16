@@ -1,6 +1,5 @@
 body {
   padding: 15px;
-  margin: 0 Auto;
 }
 
 p {
@@ -10,6 +9,7 @@ p {
 
 .wrapper{
   max-width: 400px;
+  margin: 0 auto;
 }
 
 .mt {
