@@ -1,9 +1,13 @@
 $(function() {
-	if(navigator.userAgent.match(/msie/i) || navigator.userAgent.match(/trident/i)) {
-		$('.loading').hide();
-	}
-	$('.image').load(function() {
-		$(this).parent().find(".loading").hide();
-	});
+    var images = $('.large-image')
+      , total = images.length
+      , count = 0;
+
+    $('#loading').show();
+    images.load(function() {
+        count = count + 1;
+        if (count >= total) {
+            $('#loading').hide();
+        }
+    });
 });
-alert("hello");
