@@ -20,7 +20,7 @@ p {
 }
 
 img {
-  box-shadow: 0 0 15px #282828;
+  border-radius: 20px;
 }
 
 .wrapper{
